@@ -72,7 +72,7 @@
 	</div>
 </div>
 
-<div class="container">
+<div class="container main-container">
 	<div class="row clearfix">
 		<div class="col-sm-12">
 			<div class="media">
@@ -126,6 +126,65 @@
 		 -->
 	</div>
 	
+</div>
+
+<nav class="bottom-nav">
+	<div class="container">
+	<div class="row">
+		<div class="col-sm-3">
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">OFFICES</a></li>
+				<li><a href="#">CONTACT US</a></li>
+				<li><a href="#">OUR CLIENTS</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-3">
+			<ul>
+				<li><a href="#">LEGAL POLICIES</a></li>
+				<li><a href="#">SITEMAP</a></li>
+				<li><a href="#">ACCESSIBILITY</a></li>
+				<li><a href="#">COPYRIGHT</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-3">
+			<ul>
+				<li><a href="#">SOCIAL MEDIA</a></li>
+				<li><a href="#">FACEBOOK</a></li>
+				<li><a href="#">TWITTER</a></li>
+				<li><a href="#">LINKEDIN</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-3">
+			<ul class="address-parent">
+				<li><a href="#">CONTACT</a></li>
+				<li>
+				<ul class="address">
+					<li><small>401 Havelock Road</small></li>
+					<li><small>#02-13A Singapore 169 631</small></li>
+				</ul>
+				</li>
+				<li>
+				<ul class="address">
+					<li class="address-large"><small>Tel: 555-555-5555</small></li>
+					<li class="address-small"><small>Fax: 555-555-5555</small></li>
+				</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	</div>
+
+</nav>
+
+<div class="navbar navbar-inverse bottom-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<p class="navbar-text">Copyright 2014 www.vtwebconsulting.com. All Rights Reserved.</p>
+			</div>
+		</div>
+	</div>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
