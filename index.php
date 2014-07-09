@@ -58,76 +58,80 @@
 	
 	
 </div>
-
+<!--  
 <div class="row">
 	<!--  <div class="pull-left col-sm-1">
 		<img alt="blog image" class="img-responsive" src="http://placehold.it/125x100">
-	</div>-->
+	</div>
 	<div class="container">
 		<div class="row">
+			
 			<div class="col-sm-10">
 				<h3>BLOGS</h3>
 			</div>
 		</div>
 	</div>
 </div>
+-->
 
-<div class="container main-container">
-	<div class="row clearfix">
-		<div class="col-sm-12">
-			<div class="media">
-				<a class="pull-right" href="#">
-					<img alt="ad-image" src="http://placehold.it/230x150">
-				</a>
-				<div class="media-body">
-					<h4 class="media-heading">Blog Post 1</h4>
-					<p>
-					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-					</p>
-					<button type="button" class="btn btn-default">READ MORE</button>
-					<small>posted by admin | 30th June, 2014 | (0) comments</small>
-				</div>
-			</div>
-			<div class="media">
-				<a class="pull-right" href="#">
-					<img alt="ad-image" src="http://placehold.it/230x150">
-				</a>
-				<div class="media-body">
-					<h4 class="media-heading">Blog Post 1</h4>
-					<p>
-					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-					</p>
-					<button type="button" class="btn btn-default">READ MORE</button>
-					<small>posted by admin | 30th June, 2014 | (0) comments</small>
-				</div>
-			</div>
-			<div class="media">
-				<a class="pull-right" href="#">
-					<img alt="ad-image" src="http://placehold.it/230x150">
-				</a>
-				<div class="media-body">
-					<h4 class="media-heading">Blog Post 1</h4>
-					<p>
-					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-					</p>
-					<button type="button" class="btn btn-default">READ MORE</button>
-					<small>posted by admin | 30th June, 2014 | (0) comments</small>
-				</div>
-			</div>
+<div class="container main-container clearfix">
+	<div class="row">
+		<div class="col-sm-1">
+			<img alt="test" src="http://placehold.it/125x100" class="img-responsive">
 		</div>
-		<!-- 
-		<div class="col-sm-3 ad-col">
-			<img alt="ad-image" src="http://placehold.it/230x150">
-			<img alt="ad-image" src="http://placehold.it/230x150">
-			<img alt="ad-image" src="http://placehold.it/230x150">
-			<img alt="ad-image" src="http://placehold.it/230x150">
-		
-		</div>
-		 -->
-	</div>
 	
+		<div class="col-sm-11">	
+			<div class="row">	
+				<div class="col-sm-10">
+					<h3 class="blog-section-title">BLOGS</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="media">
+						<a class="pull-right" href="#">
+							<img alt="ad-image" src="http://placehold.it/230x150">
+						</a>
+						<div class="media-body">
+							<h4 class="media-heading">Blog Post 1</h4>
+							<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+							</p>
+							<button type="button" class="btn btn-default">READ MORE</button>
+							<small>posted by admin | 30th June, 2014 | (0) comments</small>
+						</div>
+					</div>
+					<div class="media">
+						<a class="pull-right" href="#">
+							<img alt="ad-image" src="http://placehold.it/230x150">
+						</a>
+						<div class="media-body">
+							<h4 class="media-heading">Blog Post 1</h4>
+							<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+							</p>
+							<button type="button" class="btn btn-default">READ MORE</button>
+							<small>posted by admin | 30th June, 2014 | (0) comments</small>
+						</div>
+					</div>
+					<div class="media">
+						<a class="pull-right" href="#">
+							<img alt="ad-image" src="http://placehold.it/230x150">
+						</a>
+						<div class="media-body">
+							<h4 class="media-heading">Blog Post 1</h4>
+							<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+							</p>
+							<button type="button" class="btn btn-default">READ MORE</button>
+							<small>posted by admin | 30th June, 2014 | (0) comments</small>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-
 <nav class="bottom-nav">
 	<div class="container">
 	<div class="row">

@@ -56,6 +56,15 @@ nav ul li a {
 	padding-bottom: 40px;	
 }
 
+.blog-image-div {
+	margin-left: -70px;
+	padding-right: 0;	
+}
+
+.blog-section-title {
+	padding-bottom: 20px;	
+}
+
 .bottom-nav {
 	padding-top: 30px;
 	min-height: 180px;
